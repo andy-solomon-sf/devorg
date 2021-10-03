@@ -20,8 +20,8 @@
                 <field>ParentId</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Readonly</behavior>
-                <field>Test_Auto__c</field>
+                <behavior>Edit</behavior>
+                <field>Test_Text_Number__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
